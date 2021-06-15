@@ -1,0 +1,2 @@
+(this["webpackJsonpcoreui-pro-custom"]=this["webpackJsonpcoreui-pro-custom"]||[]).push([[73],{1517:function(n,t,u){},928:function(n,t,u){"use strict";u.r(t);var e=u(1),o=u.n(e),c=(u(1517),u(17)),r=o.a.lazy((function(){return Promise.all([u.e(0),u.e(33)]).then(u.bind(null,1527))}));t.default=function(n){return Object(c.jsx)(r,{})}}}]);
+//# sourceMappingURL=73.4c4a8cbf.chunk.js.map
